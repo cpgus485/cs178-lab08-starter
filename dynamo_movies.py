@@ -1,5 +1,6 @@
 # Lab 8 - Clayton Gustafson
 # Version 2
+# A third comment line
 # CS178 - Lab 8 Starter
 
 REGION = "us-east-1"
